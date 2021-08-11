@@ -67,6 +67,7 @@ textSize(40)
 	strokeWeight(4);
 			fill("red")
 	text("play catch - catch",600,100)
+	text("use left and right arrow keys to play",400,100)
 	
 
 	
